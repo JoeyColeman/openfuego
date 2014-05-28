@@ -4,7 +4,7 @@ Plugin Name: OpenFuego for WordPress
 Plugin URI: http://github.com/AramZS/openfuego
 Description: A WordPress adaptation of the OpenFuego system from Nieman Journalism Lab (as created by Andrew Phelps).
 Version: 0.0.1
-Author: Aram Zucker-Scharff, Andrew Phelpa
+Author: Aram Zucker-Scharff, Andrew Phelps
 Author URI: http://github.com/AramZS
 License: GPL2
 */
