@@ -59,7 +59,7 @@ class OpenFuegoWP {
         return $instance;
     }
     
-    private function __construct(){
+    public function __construct(){
         
         $this->includes();
         $this->openfuego_install();
