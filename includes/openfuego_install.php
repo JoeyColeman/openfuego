@@ -24,7 +24,7 @@ class OpenFuego_Installer {
     /**
 	 * Constructor
 	 */
-	private function __construct() {
+	public function __construct() {
         // Maybe install custom table for relationships
         add_action( 'admin_init', array( $this, 'maybe_install_openfuego_tables' ) );
     }
